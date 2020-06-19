@@ -1,0 +1,21 @@
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\bin\Debug\Configuration.xml
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.exe.config
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.exe
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.pdb
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\bin\Debug\MongoDB.Bson.dll
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\bin\Debug\MongoDB.Driver.dll
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.csprojResolveAssemblyReference.cache
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.exe
+E:\Studies & Documents\Working Folder\mssql2mongo-26520\DEV\SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.pdb
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.pdb
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.pdb
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.csprojResolveAssemblyReference.cache
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.dll.config
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.dll
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.dll
+E:\Studies & Documents\ESS\Application.SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.dll.config
+E:\Studies & Documents\ESS\Application.SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.dll
+E:\Studies & Documents\ESS\Application.SqlToMongo\SqlToMongoCore\bin\Debug\SqlToMongoCore.pdb
+E:\Studies & Documents\ESS\Application.SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.csprojResolveAssemblyReference.cache
+E:\Studies & Documents\ESS\Application.SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.dll
+E:\Studies & Documents\ESS\Application.SqlToMongo\SqlToMongoCore\obj\Debug\SqlToMongoCore.pdb

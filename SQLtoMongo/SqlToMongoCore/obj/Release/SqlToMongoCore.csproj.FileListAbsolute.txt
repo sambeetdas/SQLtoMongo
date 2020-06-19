@@ -1,0 +1,6 @@
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\obj\Release\SqlToMongoCore.csprojResolveAssemblyReference.cache
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\bin\Release\SqlToMongoCore.dll.config
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\bin\Release\SqlToMongoCore.dll
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\bin\Release\SqlToMongoCore.pdb
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\obj\Release\SqlToMongoCore.dll
+E:\Studies & Documents\Working Folder\Application.SqlToMongo\SqlToMongoCore\obj\Release\SqlToMongoCore.pdb
